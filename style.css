@@ -12,7 +12,8 @@ body {
     box-sizing: border-box
 }
 .player {
-    max-width: 750px;
+    max-width: 1200px;
+    width: 100%;
     position: relative;
     font-size: 0;
     overflow: hidden;
