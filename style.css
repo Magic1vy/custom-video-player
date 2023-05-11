@@ -43,7 +43,7 @@ body {
     max-width: 50px;
 }
 .player__button:focus {
-    border-color: #ffc600;
+    border-color: #ffffff;
 }
 .player__slider {
     width: 10px;
@@ -79,7 +79,7 @@ body {
     cursor: ew-resize;
 }
 .progress__filled {
-    background: #ffc600;
+    background: #ffffff;
     flex: 0;
     flex-basis: 50%;
 }
@@ -105,7 +105,7 @@ input[type=range]::-webkit-slider-thumb {
     height: 15px;
     width: 15px;
     border-radius: 50px;
-    background: #ffc600;
+    background: #ffffff;
     cursor: pointer;
     -webkit-appearance: none;
     margin-top: -3.5px;
@@ -128,7 +128,7 @@ input[type=range]::-moz-range-thumb {
     height: 15px;
     width: 15px;
     border-radius: 50px;
-    background: #ffc600;
+    background: #ffffff;
     cursor: pointer;
 }
 .fullscreen-icon{
