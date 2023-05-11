@@ -59,7 +59,7 @@ body {
     transition: all .3s;
     flex-wrap: wrap;
     background: rgba(0,0,0,0.1);
-    padding: 5px;
+    padding: 7px;
 }
 .player:hover .player__controls {
     transform: translateY(0);
@@ -80,7 +80,7 @@ body {
 .progress__filled {
     background: #ffffff;
     flex: 0;
-/*     flex-basis: 50%; */
+    margin: 0 5px;
 }
 input[type=range] {
     -webkit-appearance: none;
